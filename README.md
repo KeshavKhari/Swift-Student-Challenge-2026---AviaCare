@@ -27,6 +27,6 @@ This project was developed as a submission for the Apple Swift Student Challenge
   <img src="https://github.com/KeshavKhari/Swift-Student-Challenge-2026---AviaCare/blob/main/IncidentLogScreen.png" width="250"/>
   <img src="https://github.com/KeshavKhari/Swift-Student-Challenge-2026---AviaCare/blob/main/InstructionScreen.png" width="250"/>
 </p>
-## 👨‍💻 Author
+👨‍💻 Author
 
 Keshav Khari

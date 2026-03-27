@@ -1,5 +1,4 @@
-# AviaCare 🐦
-
+# <img src="https://github.com/KeshavKhari/Swift-Student-Challenge-2026---AviaCare/blob/main/appicon3.png" width="40"/> AviaCare
 ## Swift Student Challenge 2026 Submission
 
 AviaCare is an iOS application built using SwiftUI, designed to assist users in bird care and awareness. The app focuses on providing an intuitive and interactive experience to support bird well-being.
